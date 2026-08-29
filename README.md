@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omnia Tawfek and I'm a Frontend Developer React/Next.js</p>
+<p align="left">My name is Omnia Tawfek and I'm a Frontend Developer (React/Next.js)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Iam  a dedicated Frontend Developer who loves creating clean, responsive, and user-friendly web interfaces.<br>I work with HTML, CSS, JavaScript, TypeScript, React,Next.js, Redux, Bootstrap, and Tailwind CSS, and I enjoy building modern, scalable front-end applications.<br>I’m always improving my skills, exploring new tools, and writing clean, efficient code.</p>
+<p align="left">A passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.<br>I work with HTML, CSS, JavaScript, TypeScript, React,Next.js, Redux, Bootstrap, and Tailwind CSS, and I enjoy building modern, scalable front-end applications.<br>I’m always improving my skills, exploring new tools, and writing clean, efficient code.</p>
 
 ###
 
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" height="40" alt="next logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="nextjs logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
