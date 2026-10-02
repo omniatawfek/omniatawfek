@@ -1,61 +1,53 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋 I'm Omnia Tawfek</h1>
+
+<h3 align="left">Frontend Developer | React & Next.js</h3>
+
+<p align="left">
+  I’m a Frontend Developer focused on building clean, responsive, and user-friendly web applications.
+  <br><br>
+  I work with HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Bootstrap, and Tailwind CSS.
+  I enjoy turning ideas into functional interfaces and continuously improving my skills through real-world projects.
+</p>
 
 ###
 
-<p align="left">My name is Omnia Tawfek and I'm a Frontend Developer (React/Next.js)</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">A passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.<br>I work with HTML, CSS, JavaScript, TypeScript, React,Next.js, Redux, Bootstrap, and Tailwind CSS, and I enjoy building modern, scalable front-end applications.<br>I’m always improving my skills, exploring new tools, and writing clean, efficient code.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 </div>
 
 ###
 
-<h2 align="left">Find me on LinkedIn : </h2>
-
-###
+<h2 align="left">Connect with me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omnia-tawfek-5b9621304/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 </div>
 
-###
